@@ -1,0 +1,5 @@
+{
+  "name": "Grade 10 English Vocabulary Practice",
+  "description": "A vocabulary practice application for Grade 10 entrance exams using dictionary-based fill-in-the-blank exercises. Features instant validation without revealing answers and a 10-point grading scale.",
+  "requestFramePermissions": []
+}
